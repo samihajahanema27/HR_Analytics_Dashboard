@@ -79,7 +79,7 @@ Used DAX calculations for:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](HR_analysis.png)
 
 ---
 
@@ -100,9 +100,9 @@ One of the biggest takeaways was understanding how backend data modeling and DAX
 # 📂 Project Structure
 
 ```bash
-📁 Workforce-Overview-Dashboard
- ┣ 📊 Workforce_Dashboard.xlsx
- ┣ 📸 dashboard-preview.png
+ ┣ 📊 Data Model.png
+ ┣ 📊 HR_Analysis.xlsx
+ ┣ 📸 HR_analysis.png
  ┣ 📄 README.md
 ```
 
